@@ -10,5 +10,5 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 
 
-    // push to github
+    // push to github 
 }
